@@ -1,6 +1,6 @@
 # Hi, I'm Nontuthuzelo Mtolo 👋
 
-🎧 I'm a customer support specialist with three years of experience across software and BPO environments — at Yoyo, TLScontact, 121 BPO, and Foundever — where I resolved 60+ tickets a week, maintained 95–100% first-contact resolution, and worked daily in Zendesk, Jira, and Salesforce.
+🎧 I'm a customer support specialist with three years of experience across software and BPO environments - at Yoyo, TLScontact, 121 BPO, and Foundever where I resolved 60+ tickets a week, maintained 95-100% first-contact resolution, and worked daily in Zendesk, Jira, and Salesforce.
 
 💻 In 2025 I completed the Software Development programme at CodeSpace Academy, where I built responsive web applications with React, JavaScript, and REST APIs. That combination means I don't just log tickets — I can read the code behind them, reproduce the bug myself, and hand developers something they can actually act on.
 
