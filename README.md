@@ -18,6 +18,7 @@ support engineering and front-end development.
 ## Skills
 
 **Development:** React · JavaScript (ES6+) · HTML · CSS · Tailwind CSS · REST APIs · Git & GitHub
+
 **Support tools:** Zendesk · Jira · Salesforce
 
 ## Projects
