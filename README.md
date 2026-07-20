@@ -1,27 +1,18 @@
 # Hi, I'm Nontuthuzelo Mtolo 👋
 
-I'm a customer support specialist with three years of experience across
-software and BPO environments — at Yoyo, TLScontact, 121 BPO, and Foundever —
-where I resolved 60+ tickets a week, maintained 95–100% first-contact
-resolution, and worked daily in Zendesk, Jira, and Salesforce.
+🎧 I'm a customer support specialist with three years of experience across software and BPO environments — at Yoyo, TLScontact, 121 BPO, and Foundever — where I resolved 60+ tickets a week, maintained 95–100% first-contact resolution, and worked daily in Zendesk, Jira, and Salesforce.
 
-In 2025 I completed the Software Development programme at CodeSpace Academy,
-where I built responsive web applications with React, JavaScript, and REST
-APIs. That combination means I don't just log tickets — I can read the code
-behind them, reproduce the bug myself, and hand developers something they can
-actually act on.
+💻 In 2025 I completed the Software Development programme at CodeSpace Academy, where I built responsive web applications with React, JavaScript, and REST APIs. That combination means I don't just log tickets — I can read the code behind them, reproduce the bug myself, and hand developers something they can actually act on.
 
-I'm looking for a technical support or customer success role in a software
-company, where I can put both skill sets to work and keep growing toward
-support engineering and front-end development.
+🎯 I'm looking for a technical support or customer success role in a software company, where I can put both skill sets to work and keep growing toward support engineering and front-end development.
 
-## Skills
+🛠️ Skills
 
-**Development:** React · JavaScript (ES6+) · HTML · CSS · Tailwind CSS · REST APIs · Git & GitHub
+💻 Development: React · JavaScript (ES6+) · HTML · CSS · Tailwind CSS · REST APIs · Git & GitHub 
 
-**Support tools:** Zendesk · Jira · Salesforce
+🎧 Support tools: Zendesk · Jira · Salesforce
 
-## Projects
+## 🚀 Projects
 
 | Project | Built with | Links |
 |---|---|---|
