@@ -1,5 +1,7 @@
 # Hi, I'm Nontuthuzelo Mtolo 👋
 
+https://img.shields.io/badge/Customer%20Support-3%2B%20Years-6C63FF?style=for-the-badge https://img.shields.io/badge/Frontend%20Dev-React%20%7C%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=black https://img.shields.io/badge/%F0%9F%93%8D-Cape%20Town%2C%20South%20Africa-00C7B7?style=for-the-badge
+
 🎧 I'm a customer support specialist with three years of experience across software and BPO environments - at Yoyo, TLScontact, 121 BPO, and Foundever where I resolved 60+ tickets a week, maintained 95-100% first-contact resolution, and worked daily in Zendesk, Jira, and Salesforce.
 
 💻 In 2025 I completed the Software Development programme at CodeSpace Academy, where I built responsive web applications with React, JavaScript, and REST APIs. That combination means I don't just log tickets — I can read the code behind them, reproduce the bug myself, and hand developers something they can actually act on.
