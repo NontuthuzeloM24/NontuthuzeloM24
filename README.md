@@ -13,11 +13,11 @@
 
 ## 👩‍💻 About Me
 
-🎧 I'm a customer support specialist with **3 years of experience** across software and BPO environments—at **Yoyo**, **TLScontact**, **121 BPO**, and **Foundever**—where I resolved **60+ tickets weekly**, maintained **95–100% first-contact resolution**, and worked daily in **Zendesk**, **Jira**, and **Salesforce**.
+🎧 I'm a customer support specialist with **3 years of experience** across software and BPO environments at **Yoyo**, **TLScontact**, **121 BPO**, and **Foundever** where I resolved **60+ tickets weekly**, maintained **95-100% first contact resolution**, and worked daily in **Zendesk**, **Jira**, and **Salesforce**.
 
 💻 In **2025**, I completed the **Software Development programme at CodeSpace Academy**, where I built responsive web applications with **React**, **JavaScript**, and **REST APIs**.
 
-I don't just log tickets—I can read the code behind them, reproduce bugs, and provide developers with actionable information.
+I don't just log tickets I can read the code behind them, and provide developers with actionable information.
 
 🎯 I'm currently looking for a **Technical Support**, **Customer Success**, or **Support Engineer** role within a software company.
 
