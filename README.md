@@ -2,7 +2,7 @@
 
 <div align="left">
 
-![Profile Views](https://komarev.com/ghpvc/[[?username=https://github.com/NontuthuzeloM24])
+![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME](https://github.com/NontuthuzeloM24)&label=Profile%20Views&color=0e75b6&style=flat)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Technical%20Support-success)
 ![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)
 ![Customer Support](https://img.shields.io/badge/Customer-Support-blue)
