@@ -37,9 +37,9 @@ I don't just log tickets I can read the code behind them, and provide developers
 
 | Project | Built with | Links |
 |---|---|---|
-| **Kanban Task Manager** — task creation, priority sorting, theme switching, and localStorage persistence | JavaScript, HTML, CSS | 🔗 [Live demo](https://nontuthuzelo-mtolo-jslpp.netlify.app/) · 💻 [Code](https://github.com/NontuthuzeloM24/Nontuthuzelo-Mtolo-Kanban-Task-Board) |
+| **Kanban Task Manager** — task creation, priority sorting, theme switching, and localStorage persistence | JavaScript, HTML, CSS | 🔗 [Live demo](https://nontuthuzelo-mtolo-jslpp.netlify.app/) · 💻 [Code](https://github.com/NontuthuzeloM24/Nontuthuzelo-Mtolo-Kanban-Task-Board) · [Video Walkthrough] [Part 1](https://www.loom.com/share/f841bbfe468449c188f0f0b871ea8551?sid=a52c9670-fcaa-472a-8e54-328e584b2042) · [Part 2](https://www.loom.com/share/9391893ce1d94271a31f420889846e3b?sid=6d0609d5-46a3-46b8-b74c-fb9b50346116) |
 | **Podcast Detail Page** — podcast-show detail page with dynamic routing, loading and error states | React | 🔗 [Live demo](https://nonmto-25498-fto-2506-group-b-nontu.vercel.app/) · 💻 [Code](https://github.com/NontuthuzeloM24/Nontuthuzelo-Mtolo-React-Podcast-App) |
-| **Portfolio Website** — Figma design translated to a live, responsive web interface | HTML, CSS | 🔗 [Live demo](https://nontu-resume-project.netlify.app/) · 💻 [Code](https://github.com/NontuthuzeloM24/Nontuthuzelo-Mtolo-Developer-portfolio) |
+| **Portfolio Website** — Figma design translated to a live, responsive web interface | HTML, CSS | 🔗 [Live demo](https://nontu-resume-project.netlify.app/) · 💻 [Code](https://github.com/NontuthuzeloM24/Nontuthuzelo-Mtolo-Developer-portfolio) · [Video Walkthrough][https://www.loom.com/share/bc89f844a35d4ba58b3adfac4e130628?sid=2e1fc9a9-b1fe-4d82-805d-a3085bd37cab] |
 
 ### Tools
 
