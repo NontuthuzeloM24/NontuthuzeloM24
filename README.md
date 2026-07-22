@@ -33,6 +33,14 @@ I don't just log tickets I can read the code behind them, and provide developers
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
+## 🚀 Projects
+
+| Project | Built with | Links |
+|---|---|---|
+| **Kanban Task Manager** — task creation, priority sorting, theme switching, and localStorage persistence | JavaScript, HTML, CSS | 🔗 [Live demo](https://nontuthuzelo-mtolo-jslpp.netlify.app/) · 💻 [Code](https://github.com/NontuthuzeloM24/Nontuthuzelo-Mtolo-Kanban-Task-Board) |
+| **Podcast Detail Page** — podcast-show detail page with dynamic routing, loading and error states | React | 🔗 [Live demo](https://nonmto-25498-fto-2506-group-b-nontu.vercel.app/) · 💻 [Code](https://github.com/NontuthuzeloM24/Nontuthuzelo-Mtolo-React-Podcast-App) |
+| **Portfolio Website** — Figma design translated to a live, responsive web interface | HTML, CSS | 🔗 [Live demo](https://nontu-resume-project.netlify.app/) · 💻 [Code](https://github.com/NontuthuzeloM24/Nontuthuzelo-Mtolo-Developer-portfolio) |
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -44,14 +52,6 @@ I don't just log tickets I can read the code behind them, and provide developers
 ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?logo=zendesk&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white)
-
-## 🚀 Projects
-
-| Project | Built with | Links |
-|---|---|---|
-| **Kanban Task Manager** — task creation, priority sorting, theme switching, and localStorage persistence | JavaScript, HTML, CSS | 🔗 [Live demo](https://nontuthuzelo-mtolo-jslpp.netlify.app/) · 💻 [Code](https://github.com/NontuthuzeloM24/Nontuthuzelo-Mtolo-Kanban-Task-Board) |
-| **Podcast Detail Page** — podcast-show detail page with dynamic routing, loading and error states | React | 🔗 [Live demo](https://nonmto-25498-fto-2506-group-b-nontu.vercel.app/) · 💻 [Code](https://github.com/NontuthuzeloM24/Nontuthuzelo-Mtolo-React-Podcast-App) |
-| **Portfolio Website** — Figma design translated to a live, responsive web interface | HTML, CSS | 🔗 [Live demo](https://nontu-resume-project.netlify.app/) · 💻 [Code](https://github.com/NontuthuzeloM24/Nontuthuzelo-Mtolo-Developer-portfolio) |
 
 ## 📫 Connect with Me
 
